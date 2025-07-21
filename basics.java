@@ -9,6 +9,8 @@ public class basics {
        Float MyDegress= 10.6f ;
        double myseconednumber= 2.5;
        boolean IsTrue= true;
+
+       System.out.println("test");
     }
 }
 //premitive : leha limit mo3ayn
